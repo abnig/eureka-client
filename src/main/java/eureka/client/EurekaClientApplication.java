@@ -36,4 +36,9 @@ class ServiceInstanceRestController {
 	public List<String> services() {
 		return this.discoveryClient.getServices();
 	}
+	
+	@RequestMapping("/description")
+	public String description() {
+		return this.discoveryClient.description();
+	}
 }

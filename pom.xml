@@ -11,8 +11,8 @@
 	<groupId>spring.boot.poc</groupId>
 	<artifactId>eureka-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eureka-service</name>
-	<description>eureka-service</description>
+	<name>eureka-client</name>
+	<description>eureka-client</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
